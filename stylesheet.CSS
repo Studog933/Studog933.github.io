@@ -1,12 +1,12 @@
 body {
-  background: white;
+  background: #ffffff;
 }
 p {
-  color: black;
+  color: #000000;
 }
 h1 {
   font-weight: bold;
-  font-family: Comic Sans MS;
+  font-family: Comic_Sans_MS;
   color: #33adff;
   text-align: center;
   font-size: 48px;
